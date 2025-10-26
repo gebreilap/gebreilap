@@ -22,15 +22,15 @@
 
 ## Status:
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjstmei&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jjstmei&theme=dark&utcOffset=-3)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjstmei&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jgebreilap&theme=dark&utcOffset=-3)|
 |---|---|
 <br> 
 
 
-|![](https://github-readme-streak-stats.herokuapp.com/?user=jjstmei&theme=dark&hide_border=true)|![Gabriele's Stats](https://github-readme-stats.vercel.app/api?username=jjstmei&theme=dark&show_icons=true&hide_border=true&count_private=true)
+|![](https://github-readme-streak-stats.herokuapp.com/?user=jjstmei&theme=dark&hide_border=true)|![Gabriele's Stats](https://github-readme-stats.vercel.app/api?username=gebreilap&theme=dark&show_icons=true&hide_border=true&count_private=true)
 |---|---|
 <br>
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjstmei&theme=dark)|![Gabriele's Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jjstmei&theme=dark)
+|![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjstmei&theme=dark)|![Gabriele's Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gebreilap&theme=dark)
 |---|---|
 <br>
