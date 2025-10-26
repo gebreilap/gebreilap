@@ -22,7 +22,7 @@
 
 ## Status:
 
-|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gebreila&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jgebreilap&theme=dark&utcOffset=-3)|
+|![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gebreilap&theme=dark)|![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jgebreilap&theme=dark&utcOffset=-3)|
 |---|---|
 <br> 
 
